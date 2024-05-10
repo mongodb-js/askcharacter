@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import askcharacter from '..';
 import assert from 'assert';
 import { Readable, PassThrough } from 'stream';
